@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 205815f6c79417d4f93ac99cc91c6103
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974a7e93d5c9ef469105124cd6e52f4
+      internalID: -1653024890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927178f6705a83429eb91e877000caf
+      internalID: -966902048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e338fde8c996004d8f289c73f225295
+      internalID: 1259504395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58397d6e4dace14a8e092f876e12d8b
+      internalID: -1113503696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec4205641e48c4da0a38209b4484c6
+      internalID: 20777748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_5
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85456042c0524ea45bcd5fa8e24e656c
+      internalID: 1474209203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_6
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fcde4697f6b0468dd5f3c6a78b4c2
+      internalID: -1349274227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_7
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48617c5873d24f4a918e130e42eab03
+      internalID: 569399026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_8
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd241d8aa132094fa643ddc7422608a
+      internalID: 1588233390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_9
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 512
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b36aeb6d8c84e4ca5e52777a1ab859
+      internalID: 1337698036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7444e2a1a379a4ab40ffcfabd92144
+      internalID: 686384891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9c2418341e8f40ae384f3ce23948d
+      internalID: -2096804578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013ecaed46065534fba7c5d7ca0dd573
+      internalID: -1376489229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba25d1ee9d2c8947989449d29ce7aaf
+      internalID: -260995122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3863890e8e424daea88e0be14691b
+      internalID: 1690250583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_15
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab9790653657443a302aac42a57410
+      internalID: -1024482572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_16
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f1f96b4393d141afc62a80b6693e3
+      internalID: -1886662784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_17
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8734c2805842f40bfef51070cbc11d
+      internalID: -537542828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_18
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e70ad00b6d1b439cca3dfe7be7ba1
+      internalID: 1973044327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_19
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 256
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6818fc463462c0949b91aeda7308ee12
+      internalID: -1640584729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d24e4eb15ff6446a154e40610c95a2
+      internalID: 1774549147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d8c74fde46e343999079dbe1db2c7
+      internalID: -337138590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af5e34e78d8e945b510f284ef6115b
+      internalID: -195116124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb9d729e34ef5843908871c9606c5ef
+      internalID: 1926674602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_24
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f124c5149b79a8499df29714d5bc9c4
+      internalID: 1204980417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_25
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4957d9ae86205f449799699a85ad87e
+      internalID: -614793201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_26
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7261f69888a0fc5439a2722756bf6ca7
+      internalID: 1001740305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Prop_TrashPile_10_27
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffaec853f44b2c44a34fb2d80f61c0e
+      internalID: -732753776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SM_Prop_TrashPile_10_0: -1653024890
+      SM_Prop_TrashPile_10_1: -966902048
+      SM_Prop_TrashPile_10_10: 686384891
+      SM_Prop_TrashPile_10_11: -2096804578
+      SM_Prop_TrashPile_10_12: -1376489229
+      SM_Prop_TrashPile_10_13: -260995122
+      SM_Prop_TrashPile_10_14: 1690250583
+      SM_Prop_TrashPile_10_15: -1024482572
+      SM_Prop_TrashPile_10_16: -1886662784
+      SM_Prop_TrashPile_10_17: -537542828
+      SM_Prop_TrashPile_10_18: 1973044327
+      SM_Prop_TrashPile_10_19: -1640584729
+      SM_Prop_TrashPile_10_2: 1259504395
+      SM_Prop_TrashPile_10_20: 1774549147
+      SM_Prop_TrashPile_10_21: -337138590
+      SM_Prop_TrashPile_10_22: -195116124
+      SM_Prop_TrashPile_10_23: 1926674602
+      SM_Prop_TrashPile_10_24: 1204980417
+      SM_Prop_TrashPile_10_25: -614793201
+      SM_Prop_TrashPile_10_26: 1001740305
+      SM_Prop_TrashPile_10_27: -732753776
+      SM_Prop_TrashPile_10_3: -1113503696
+      SM_Prop_TrashPile_10_4: 20777748
+      SM_Prop_TrashPile_10_5: 1474209203
+      SM_Prop_TrashPile_10_6: -1349274227
+      SM_Prop_TrashPile_10_7: 569399026
+      SM_Prop_TrashPile_10_8: 1588233390
+      SM_Prop_TrashPile_10_9: 1337698036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

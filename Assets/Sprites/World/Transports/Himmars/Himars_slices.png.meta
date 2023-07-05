@@ -1,0 +1,2159 @@
+fileFormatVersion: 2
+guid: e15e13a9c88d9694a972d31a92a4e7fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Himars_slices_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38476441ff58ebe4eb0bfb6903e8e8d8
+      internalID: 1110024894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e4cef0c393aa4cabbe65f84a105e8
+      internalID: -944355529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_2
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be47c47dc33944389e76a0d59bf3f3
+      internalID: 1264356630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_3
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3266284bf4cee4da93c4584ae61066
+      internalID: -1135353185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_4
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc3c601e1abed449d341445dd87d09
+      internalID: -1728724745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_5
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a3629522497641b44283e2dfeb24b
+      internalID: -1524739276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_6
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9edccefc3404d47aee8d841e63d157
+      internalID: 1478883621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_7
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ebce6d90c1734c9198d2fbee318a2
+      internalID: 1880998072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_8
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf610a297fb458743938a1dd8c41a0d6
+      internalID: -90222028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_9
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 2655
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625814611f83f34cb70461f1167a06f
+      internalID: -636831283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53831421d79b27a479f3e8ee228a9a8f
+      internalID: -1451981971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8813f3bb10d004f9fe87b8f4a2223b
+      internalID: 1997523127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b07f598db88ad4db55a7e1febdfb56
+      internalID: -1188548187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_13
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b0de759067dc46bad7a7a99c84577
+      internalID: 891666057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_14
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ced0155398a644803bf2d9fe05982
+      internalID: 679863418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_15
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4cac25fd2d60489d13ca7aa1fb434
+      internalID: 695726321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_16
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb44b330659d6c4b9955f23556dfc84
+      internalID: -218617638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_17
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a09d2005435334f80387e39fa7834a
+      internalID: 2063491298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_18
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222dbea0edb5efe4caa15d1c7b2b734c
+      internalID: -1660773905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_19
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 2360
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce3e88893c19e418484bce14532226
+      internalID: -664128784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa99289de525b44c8204f4e14b859cc
+      internalID: 1141141533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8634e10ad2ad12640baf1d57454078a0
+      internalID: -1483529719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_22
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9b7ab2cf790f4b83c891128d18c3b
+      internalID: -528210086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_23
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab57dd0a280364f8d57fae011d785f
+      internalID: 1136547818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_24
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a178be15bde5fdd419c8162bf3cf25ad
+      internalID: 767759019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_25
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a8a00cb25cad439e4034b63cc4b3e
+      internalID: -961365659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_26
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4fe11ef20b283498a0c75c20475d27
+      internalID: 1496585683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_27
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9120c62ecf5f40893e67a030a6c12
+      internalID: 1281948882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_28
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c15ae46a68ceff4aa14f168290ff65d
+      internalID: -895057901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_29
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 2065
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8db890762dc78c45b568890ccc5b106
+      internalID: -918112206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2e04dfb79b66744b735e2356f48612
+      internalID: 2000002825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d295349c4b7c93745be53d592544d64a
+      internalID: 51121966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_32
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8698362db024c048828f867cb739251
+      internalID: 2053636163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_33
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a74743ed040cd4e83442340c85bdcf
+      internalID: -1939397408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_34
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddf2a588a0517943bdee2ba32d5f282
+      internalID: 1663697144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_35
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b72d41b4adcf44bb48221fa557b754
+      internalID: -243140893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_36
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae94b11b80a4449a3483b3e06eed66
+      internalID: 2096396215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_37
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee586bd12d5ec44da8b175087909a2e
+      internalID: 1177679411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_38
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd8ea83bcd3184d9910856ae38c631
+      internalID: 1732886112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_39
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1770
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc0ce217813084c9006c9748969cfc
+      internalID: 1061134144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d85dc0a988bb4b87e424c8d3ee3d5
+      internalID: 1067665878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edfbe2e1d874cd4e8e2dd45fa19f0a9
+      internalID: -1262321611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_42
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1f92ed48a26a4cb21fdad6059ddbb
+      internalID: -475155942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_43
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372a3c74fd053b45b629a40c3fae920
+      internalID: 258993675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_44
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c58a4264e61b4f818c4ba9d72563a
+      internalID: -1414762442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_45
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862ad99b7b2aa3b48bd3d490668971e0
+      internalID: 1710029737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_46
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67db2718e532294292999c8017eb076
+      internalID: 177762597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_47
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0cb43c552a10342ae5948b68777ecd
+      internalID: -600430491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_48
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac75c59d946edcb4283b4b90f8c3a26d
+      internalID: -528454106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_49
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1475
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29de20224c66b46a55b6b73d75aeee
+      internalID: -1670958623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398f2f057bacd244b45bc1e8ad52d13
+      internalID: -610337944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_51
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f922b360341fd14ba88d715c298a725
+      internalID: -455389553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_52
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6e49d3833571498e8fb4d6573ac00
+      internalID: 942875421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_53
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9338d80f7e68894aac3044b04dea358
+      internalID: -122535906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_54
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb66b8b15dab144a7edb48b4ae8c64
+      internalID: -1496369937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_55
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191403dc620fb44597f355026a511fa
+      internalID: 1186454321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_56
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9b12f5d5f1b5428b08f2774a193e4
+      internalID: 275894707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_57
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f0be77d31864e44a27bc4936d25e8d
+      internalID: 989740438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_58
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2076b89236499547808f9f28477db03
+      internalID: 209627573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_59
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1180
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7454e6428dfe14ebf89efd8724c371
+      internalID: -1417143427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d41a261bf8b4f46ab42d5d44ba5a73
+      internalID: -1177597365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_61
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65898d5b05c7f0745af01b9633e582f7
+      internalID: -800982972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_62
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a997a69732864ebf332cfb2fe6102
+      internalID: -7927830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_63
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333b2a5f5fe6754a9fd0df1b90f99d4
+      internalID: -860928069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_64
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f0d993250d1f74796d91045cff0437
+      internalID: 1049083226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_65
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2db13b354855b4ca625c846830d3d5
+      internalID: 1874339458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_66
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5ef28c0a58405418baab9f2537ccec
+      internalID: -1900859559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_67
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c654be58cdfdc11408401451e94d6228
+      internalID: 1082558398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_68
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af6dcd60f464a43872e2dbdf35f884
+      internalID: -1693275616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_69
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 885
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d71f2669d5864478b4a86fc347eace
+      internalID: 1910393327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0541ed51ad9f58f43a689150caf552b0
+      internalID: 7310145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_71
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a7875227bd53d41b3ff51b8d0caed6
+      internalID: -812352616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_72
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6251a67b3d964b803ce01c096c7d7
+      internalID: 851470017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_73
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781f2556e9e1ef42a4d302bd37d2c8f
+      internalID: 1638375303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_74
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299cd605fc689ef47a6af928561f6d62
+      internalID: -817434645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_75
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04005d42df1a6a44b1dccbd4e2be512
+      internalID: -1670344272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_76
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1217edccbbfad64dae1b09e340d89ec
+      internalID: -812653471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_77
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c5e610ce237046b4d8497b72f417d
+      internalID: 229990300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_78
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb569ee98e73640a89b1602969a9bf
+      internalID: 1025721493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_79
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 590
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b654ec83c634fe5458c7b253bee48ca2
+      internalID: 413271505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad58a30c96e154ea585516cd3a7dd1
+      internalID: 878074874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_81
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad01c0b11bf1cd4ca41f5a4c6df6517
+      internalID: 666304077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_82
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270a63d1fb6e7c4c91e3feb4ce889d9
+      internalID: -1568421122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_83
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8514bc37193c4d4f9e1af237bd4ee64
+      internalID: 421715969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_84
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b931f940d9b894cbd767ed7114f931
+      internalID: 1714492855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_85
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e91ebc758cc264595910296355f305
+      internalID: 950040314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_86
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89020357fcbe54e9493b3688bd25ef
+      internalID: -1436231228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_87
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc9fad1964be44f8214a96a7f96231
+      internalID: 303717923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_88
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b07abb0d355e429c9382c84f425bd
+      internalID: -1031832367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_89
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 295
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be577ea1f6ee7cb419a433da4ae1f887
+      internalID: 1446512505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477e80103d1ae846a4d2936617003a2
+      internalID: 1893569156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himars_slices_91
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 398
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38addc94bb1dd254995b3cf6a672e63c
+      internalID: -456152549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Himars_slices_0: 1110024894
+      Himars_slices_1: -944355529
+      Himars_slices_10: -1451981971
+      Himars_slices_11: 1997523127
+      Himars_slices_12: -1188548187
+      Himars_slices_13: 891666057
+      Himars_slices_14: 679863418
+      Himars_slices_15: 695726321
+      Himars_slices_16: -218617638
+      Himars_slices_17: 2063491298
+      Himars_slices_18: -1660773905
+      Himars_slices_19: -664128784
+      Himars_slices_2: 1264356630
+      Himars_slices_20: 1141141533
+      Himars_slices_21: -1483529719
+      Himars_slices_22: -528210086
+      Himars_slices_23: 1136547818
+      Himars_slices_24: 767759019
+      Himars_slices_25: -961365659
+      Himars_slices_26: 1496585683
+      Himars_slices_27: 1281948882
+      Himars_slices_28: -895057901
+      Himars_slices_29: -918112206
+      Himars_slices_3: -1135353185
+      Himars_slices_30: 2000002825
+      Himars_slices_31: 51121966
+      Himars_slices_32: 2053636163
+      Himars_slices_33: -1939397408
+      Himars_slices_34: 1663697144
+      Himars_slices_35: -243140893
+      Himars_slices_36: 2096396215
+      Himars_slices_37: 1177679411
+      Himars_slices_38: 1732886112
+      Himars_slices_39: 1061134144
+      Himars_slices_4: -1728724745
+      Himars_slices_40: 1067665878
+      Himars_slices_41: -1262321611
+      Himars_slices_42: -475155942
+      Himars_slices_43: 258993675
+      Himars_slices_44: -1414762442
+      Himars_slices_45: 1710029737
+      Himars_slices_46: 177762597
+      Himars_slices_47: -600430491
+      Himars_slices_48: -528454106
+      Himars_slices_49: -1670958623
+      Himars_slices_5: -1524739276
+      Himars_slices_50: -610337944
+      Himars_slices_51: -455389553
+      Himars_slices_52: 942875421
+      Himars_slices_53: -122535906
+      Himars_slices_54: -1496369937
+      Himars_slices_55: 1186454321
+      Himars_slices_56: 275894707
+      Himars_slices_57: 989740438
+      Himars_slices_58: 209627573
+      Himars_slices_59: -1417143427
+      Himars_slices_6: 1478883621
+      Himars_slices_60: -1177597365
+      Himars_slices_61: -800982972
+      Himars_slices_62: -7927830
+      Himars_slices_63: -860928069
+      Himars_slices_64: 1049083226
+      Himars_slices_65: 1874339458
+      Himars_slices_66: -1900859559
+      Himars_slices_67: 1082558398
+      Himars_slices_68: -1693275616
+      Himars_slices_69: 1910393327
+      Himars_slices_7: 1880998072
+      Himars_slices_70: 7310145
+      Himars_slices_71: -812352616
+      Himars_slices_72: 851470017
+      Himars_slices_73: 1638375303
+      Himars_slices_74: -817434645
+      Himars_slices_75: -1670344272
+      Himars_slices_76: -812653471
+      Himars_slices_77: 229990300
+      Himars_slices_78: 1025721493
+      Himars_slices_79: 413271505
+      Himars_slices_8: -90222028
+      Himars_slices_80: 878074874
+      Himars_slices_81: 666304077
+      Himars_slices_82: -1568421122
+      Himars_slices_83: 421715969
+      Himars_slices_84: 1714492855
+      Himars_slices_85: 950040314
+      Himars_slices_86: -1436231228
+      Himars_slices_87: 303717923
+      Himars_slices_88: -1031832367
+      Himars_slices_89: 1446512505
+      Himars_slices_9: -636831283
+      Himars_slices_90: 1893569156
+      Himars_slices_91: -456152549
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

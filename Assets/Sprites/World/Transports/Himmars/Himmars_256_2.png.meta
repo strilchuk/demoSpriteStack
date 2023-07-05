@@ -1,0 +1,2160 @@
+fileFormatVersion: 2
+guid: 059bfb110a867e04a9470ad43fa804e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Himmars_256_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf551714304f3341a4385ff37746610
+      internalID: 1900679239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1634254391c840950b01c3f2ac88a
+      internalID: -226476144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd904694c0d5b54bb98e2ae6d81bae0
+      internalID: -373859210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56b205461600142960c64a7e053a90
+      internalID: 1164277280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0cfa95e8f1a04b84900c0205bc33d
+      internalID: 1901725082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921c65a73bbf154cbccd1f95c301848
+      internalID: 1255299080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_6
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1594f093dae6d4fb4173613aab9abc
+      internalID: 250202591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_7
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325493d5f2f3fe4aac3cd899e27f793
+      internalID: -585228745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_8
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d494e99fd9e7144aec2b8bf37b707e
+      internalID: 1136067041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_9
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 4608
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ba08e566e13645a15c5a68156fb27
+      internalID: -196375124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023269eaa4158a54397bb322b4bfe9af
+      internalID: 799386742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4859c3aee2233498d8ad5d3d7b8b7d
+      internalID: -2011969194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76386ce2558dafe459d052a581837769
+      internalID: -2025044673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b26457429e8c845b336eafba04164b
+      internalID: 571097609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8713c87bc214d649a41d80657b1670b
+      internalID: -847444455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_15
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee28227c5ce8714c924aa93bbbe1740
+      internalID: 420940657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_16
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211dd16eb7510d444adbb923cb31f22c
+      internalID: -783504359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_17
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cab416bfedb4f49bb0da09d5feb1da
+      internalID: -878270237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_18
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45776a1d6d32278478ea7ea7c041af52
+      internalID: 1042946437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_19
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 4096
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0228d2e563929469cfefef911402f0
+      internalID: 857143577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb9f838d172e1243b33e72ffee63ea8
+      internalID: -996219365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a522e559f8634192f9443bad8e983
+      internalID: -543118442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd45b5698a70184bb08d1c04c409516
+      internalID: 436874914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa43657c33845240a9d3bea748b68b1
+      internalID: -636983462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e10eb3be5467a4caa1d6c5e4385fd2
+      internalID: -1165050867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_25
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c9358334b480e40b34522dabf01fe1
+      internalID: 1487230519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_26
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f66b74f04923448eb9a8ccc51814b
+      internalID: -1954036537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_27
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a4bd6d1573cd14a958e48ff7ebf6ba
+      internalID: 397418526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_28
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0333dc9a81064b9026e410cb112ef
+      internalID: 1554572537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_29
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3584
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955c89da380a6047bf74228a984aca4
+      internalID: -1401143158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a3852ff1e7a084ca30d0cbc3b4dc8f
+      internalID: 732410994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b129152233406c4b9da7f5e53541818
+      internalID: -1358207534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87363e4a2f06da84db3b44042b21a2c4
+      internalID: -1483311647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c8fc5892a395241af39d80bd76798f
+      internalID: -1880820188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e740c2a88f3a01b49919371f6c644466
+      internalID: 940521557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90a54128bd45346bbf4f0deeacb305
+      internalID: 268500705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_36
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b6cf77169bfe48b5811292e52f6a3
+      internalID: -1640748726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_37
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac04014c280b9e4e87456bcc92181aa
+      internalID: 1927576834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_38
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8a61f0847f1b4bbef5f99775a2065
+      internalID: -1373084417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_39
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3072
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a06d9207b27dd40a17d3cea5e34853
+      internalID: 1557520498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f60f611691ec41bc74cd2b13d7fad
+      internalID: -1563469405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a585d098da5a434499f1600f7d8afa51
+      internalID: 2019064309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_42
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd886acebe67404cb4ceb8897b65818
+      internalID: -878301797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d3d94a9e9c1346973139daa87aa30
+      internalID: 133483960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f698035677f95489b657a1ecbe7742
+      internalID: 374568723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_45
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76660122b03f7c4b9576ffcb5474d60
+      internalID: 952803333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_46
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eeab628c6b7214f9de5bb766aad7cd
+      internalID: 1556932358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_47
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4cfd094a5dea418c75e7ff203e53c
+      internalID: -1980938068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_48
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fa587792799d94da801d77ae16b14d
+      internalID: 1918367368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_49
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2560
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee16b2e29d734e4493e021d5ecab363
+      internalID: -2035455732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9dca18da5593f409c196a14e5d85c3
+      internalID: -1047435813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e0546a1824e7a468b462ee1aae8d25
+      internalID: 2081398431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aceb59f1555774e9626976a62e6405
+      internalID: -521439190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_53
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b6d4fedc17b7344a38993e36de2803
+      internalID: -357677571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_54
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489ead7fd75d2474cbf2a12506bda48f
+      internalID: -10687851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_55
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8e4d6ebd538a4c860136a873b865b
+      internalID: -1265094597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_56
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9be9af0c370c48b08dad7bd53df4c
+      internalID: 1007676557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_57
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7e7dd667b84854186f52a067785f88
+      internalID: 735502027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_58
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bff1606eb12034dab6375f8b4eb805
+      internalID: -823210085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_59
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2048
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c2fd2cc9627ef44860f3fb7812cd30
+      internalID: 1944277146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597f9d3f683c5447a6947bd77e423bb
+      internalID: -1940652508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_61
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce463742e24b2324e93e07fc485ef059
+      internalID: 1182303264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_62
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87670fda291e3e24ab42af2b454cb0a0
+      internalID: 806048780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_63
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d651cb584c74b624c8ae9e8d61bd61cd
+      internalID: -1589005385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_64
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e848781189d08940accd38f8f93afa6
+      internalID: -318544520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_65
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3727e39c0aafc1047a6163fe3b0b44cd
+      internalID: 745052431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_66
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca593d200cbe242af96598ebcd04b2
+      internalID: 759182501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_67
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c811c5c307c2de45bad3139c1dc3438
+      internalID: -575005002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_68
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e4e987bed13784b8d683363cfab79a
+      internalID: -1580397555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_69
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1536
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d760075039f04fb3187aa78aa35d0
+      internalID: -228094170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e7bd59328912d428a8390c78d54d3a
+      internalID: 1678754767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cfd384f0b7704e93ba34495255f1b
+      internalID: -572907284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_72
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef7033c632e56f428d2828c92acb69d
+      internalID: -1091421208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_73
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eef5f0101720b64daebf88589a35bb2
+      internalID: -197919614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_74
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa248ddafad2b9c4f8180a4522cb4d2d
+      internalID: -1968078260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_75
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e73b087ec40c4fa9b33bde66c4331
+      internalID: -997515145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_76
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc83f2f61ff46e408e11abc34c500d2
+      internalID: 1014809866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_77
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2adee36b3734244ab06ebb3882821a
+      internalID: 1735014978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_78
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee9a6247b598ba41be9a4cb34992b94
+      internalID: 36130802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_79
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1024
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c3ae3bfd1e694eb0aa691f42af805
+      internalID: 911046971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f753439a49d63e8419907b4bbedc7b21
+      internalID: -312227127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_81
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a48f8b3ba40046b9695e12acceff8
+      internalID: -1474336281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_82
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e218806b2aba444ac6606c0d53db39
+      internalID: -1949184586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_83
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb81e0ff8b730443be2fef8a0c477b3
+      internalID: 862940443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_84
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed43d4e18c880d469adb3a1bda63881
+      internalID: -2081358107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_85
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52787aa2ea15080468481db5546ae541
+      internalID: 1428093444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_86
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d40ab7c5bb23438361ec8c37afc7c
+      internalID: -1950102579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_87
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244b91f7b605b94db0833539f081200
+      internalID: -741455280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_88
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af216a9b47a7be24682dc70274407ceb
+      internalID: -773035345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_89
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 512
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573f40f3aa8972344a1f57344923fa30
+      internalID: -599524373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87237e92883aa6348b8971f9f3cb4b30
+      internalID: -1446724105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Himmars_256_2_91
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 188
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c065220b0747438bd515217adf9a8
+      internalID: 805029100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Himmars_256_2_0: 1900679239
+      Himmars_256_2_1: -226476144
+      Himmars_256_2_10: 799386742
+      Himmars_256_2_11: -2011969194
+      Himmars_256_2_12: -2025044673
+      Himmars_256_2_13: 571097609
+      Himmars_256_2_14: -847444455
+      Himmars_256_2_15: 420940657
+      Himmars_256_2_16: -783504359
+      Himmars_256_2_17: -878270237
+      Himmars_256_2_18: 1042946437
+      Himmars_256_2_19: 857143577
+      Himmars_256_2_2: -373859210
+      Himmars_256_2_20: -996219365
+      Himmars_256_2_21: -543118442
+      Himmars_256_2_22: 436874914
+      Himmars_256_2_23: -636983462
+      Himmars_256_2_24: -1165050867
+      Himmars_256_2_25: 1487230519
+      Himmars_256_2_26: -1954036537
+      Himmars_256_2_27: 397418526
+      Himmars_256_2_28: 1554572537
+      Himmars_256_2_29: -1401143158
+      Himmars_256_2_3: 1164277280
+      Himmars_256_2_30: 732410994
+      Himmars_256_2_31: -1358207534
+      Himmars_256_2_32: -1483311647
+      Himmars_256_2_33: -1880820188
+      Himmars_256_2_34: 940521557
+      Himmars_256_2_35: 268500705
+      Himmars_256_2_36: -1640748726
+      Himmars_256_2_37: 1927576834
+      Himmars_256_2_38: -1373084417
+      Himmars_256_2_39: 1557520498
+      Himmars_256_2_4: 1901725082
+      Himmars_256_2_40: -1563469405
+      Himmars_256_2_41: 2019064309
+      Himmars_256_2_42: -878301797
+      Himmars_256_2_43: 133483960
+      Himmars_256_2_44: 374568723
+      Himmars_256_2_45: 952803333
+      Himmars_256_2_46: 1556932358
+      Himmars_256_2_47: -1980938068
+      Himmars_256_2_48: 1918367368
+      Himmars_256_2_49: -2035455732
+      Himmars_256_2_5: 1255299080
+      Himmars_256_2_50: -1047435813
+      Himmars_256_2_51: 2081398431
+      Himmars_256_2_52: -521439190
+      Himmars_256_2_53: -357677571
+      Himmars_256_2_54: -10687851
+      Himmars_256_2_55: -1265094597
+      Himmars_256_2_56: 1007676557
+      Himmars_256_2_57: 735502027
+      Himmars_256_2_58: -823210085
+      Himmars_256_2_59: 1944277146
+      Himmars_256_2_6: 250202591
+      Himmars_256_2_60: -1940652508
+      Himmars_256_2_61: 1182303264
+      Himmars_256_2_62: 806048780
+      Himmars_256_2_63: -1589005385
+      Himmars_256_2_64: -318544520
+      Himmars_256_2_65: 745052431
+      Himmars_256_2_66: 759182501
+      Himmars_256_2_67: -575005002
+      Himmars_256_2_68: -1580397555
+      Himmars_256_2_69: -228094170
+      Himmars_256_2_7: -585228745
+      Himmars_256_2_70: 1678754767
+      Himmars_256_2_71: -572907284
+      Himmars_256_2_72: -1091421208
+      Himmars_256_2_73: -197919614
+      Himmars_256_2_74: -1968078260
+      Himmars_256_2_75: -997515145
+      Himmars_256_2_76: 1014809866
+      Himmars_256_2_77: 1735014978
+      Himmars_256_2_78: 36130802
+      Himmars_256_2_79: 911046971
+      Himmars_256_2_8: 1136067041
+      Himmars_256_2_80: -312227127
+      Himmars_256_2_81: -1474336281
+      Himmars_256_2_82: -1949184586
+      Himmars_256_2_83: 862940443
+      Himmars_256_2_84: -2081358107
+      Himmars_256_2_85: 1428093444
+      Himmars_256_2_86: -1950102579
+      Himmars_256_2_87: -741455280
+      Himmars_256_2_88: -773035345
+      Himmars_256_2_89: -599524373
+      Himmars_256_2_9: -196375124
+      Himmars_256_2_90: -1446724105
+      Himmars_256_2_91: 805029100
+      Himmars_256_2_92: 1606019524
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

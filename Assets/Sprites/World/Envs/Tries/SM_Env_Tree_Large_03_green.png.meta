@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: 89fa3f411b9b79f4695e7e3371547798
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e3449961054174a9a3f917c543330d
+      internalID: 851814804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27351126a61b78440bd5e989ce90ad67
+      internalID: -1644075076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e350c20e94584a9dd4431c3f39569
+      internalID: 1659558922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6834385bf077234485d088cbf0a5bdc
+      internalID: -877732937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02018d78fafe542857186c4256a091
+      internalID: -772483375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d81d2af8a68e248a016c7cb959a616
+      internalID: 338615059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aea4d9712a9674fbb928d54b5f252f
+      internalID: -732503568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9b221a508d3c4880f45a3c9b22ca6
+      internalID: -981336589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_8
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59ca10512932b242a5a45bb91598d4f
+      internalID: -2044137432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_9
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2064
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed01c91ecd03e494f9127469abad36b8
+      internalID: -1193047853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d987f594cd1f04188840eb4d6c1340
+      internalID: 1417908009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e00f3fc24c384a95f3f44ea57e570
+      internalID: -153917712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa062cfde0bf5cb488bdf4d7ce5c4d2d
+      internalID: -1429382072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c741c903601c11c49b39a664c42f9a6f
+      internalID: -708760333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_14
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ae8eea1d23c441935656e19c7ab6a
+      internalID: -965752261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_15
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327ffd03e58c2c42986229c241b2b04
+      internalID: -418260700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b03e7ae77c54c41a35510d69343654
+      internalID: -1837478515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_17
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ae0b112e019f4a95eb90ea5cae962
+      internalID: 330194948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_18
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04583be35daf0fc488dc58ba5b3e075f
+      internalID: -1292685584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_19
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1892
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7661fc25022d4cb259e9f0c68fc24
+      internalID: 664450095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ead44f95ee2f4592f30a2c7eebce0
+      internalID: 384012661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18eccd4ff7b5040b43846fe294222a
+      internalID: -497555843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7affef8171c3faf4aa6ffdb1370650bf
+      internalID: 971221293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedc788204ab33e478575d713f6321ef
+      internalID: 315856502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_24
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd35eb1808e494cb9e70e16e6cbe94
+      internalID: -46886765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_25
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77736938575aa8143858c1d078d31248
+      internalID: -72066266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f001bd72a79dcd2449ad4c7b6e09b271
+      internalID: 1587894619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_27
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d82a96d7f4e948987bcaad321382f
+      internalID: 2141944949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_28
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec07d37571064047892b173c8d123b8
+      internalID: -1985291457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_29
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1720
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcac3fdf6a3865459c9743f2a28e33e
+      internalID: 1328892899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec1b1464ff57834f990405ad25a4c9b
+      internalID: -1738037569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0479e612739f2d54484092efdf53c1f3
+      internalID: -1196685378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c89f713ce15847abf694b403d95f7
+      internalID: -1804651905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14789285bc2764428b2ab97a6622859
+      internalID: 1428590998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_34
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6820e990d806224c9a7c7dc0b3e7e62
+      internalID: 801948499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_35
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada003bb9083b4f4db456569e9cf2e58
+      internalID: -1753470876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_36
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6258687d93dc96f41b373a4e28bdf380
+      internalID: 1507537296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_37
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0233c9771116bf438a7d1b1136fef15
+      internalID: -2001246885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_38
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6c7c105ffcb54d8f0a792ccf321d2
+      internalID: 397739985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_39
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1548
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66b850d2e489847a4b32cec707ff85
+      internalID: -1387745294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6149e78f94c11e42b025efd9d6ba079
+      internalID: -1593278872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b79e1c02467c4d8ab853286a0b9b0
+      internalID: -565554601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5de5de2b4e1de7468424cd4c8744a8a
+      internalID: 281952810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e73decd915e24ab70afdccccfd4b9
+      internalID: 1957133920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9722e1ffec7bf4da58f1a9e16f01b3
+      internalID: -1136785503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_45
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a522a4b2e4e6d499c743527260c8c7
+      internalID: -168601132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_46
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0c759a9918af349a5367b9d98144bb
+      internalID: 1199228194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_47
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfc7332bc3e4404c9f92df2492907bb
+      internalID: 544760955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_48
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c63beac38c15419dbfcdd4b5c6d24
+      internalID: -756223162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_49
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1376
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da02b482d40113498aa0fd63fdc6f70
+      internalID: -1682398674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348913e4193193045819a338f7b80830
+      internalID: -1024151872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6506a8901529e40af1ed7b393af396
+      internalID: 1094471516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa941e95856c2d4ab71dd3f55a17cd8
+      internalID: 1854078156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_53
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f200157795854c9777ff6fa1e6db2
+      internalID: 370670190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_54
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc283371d17624ebbbd2a4a60002c0
+      internalID: -1876293259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_55
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f766a40e75db94b93120ed38114034
+      internalID: 616038389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_56
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe43aa8fd7be04b89151bb0c263fdf
+      internalID: -927459403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_57
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98bae545f1b824ca907f2c35388c51
+      internalID: 1023135102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_58
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502671abb47963e4b96441a91fdf25f1
+      internalID: 35031732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_59
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1204
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51f770aecdf31847b80a0e23d5c69a4
+      internalID: 1283988319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666659d05e4056749af80efe0be62d97
+      internalID: 1231505822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dfc926d36cfa74c98e15cdfb06b77d
+      internalID: 1556790942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163237411548fca4988db7874a23275b
+      internalID: 214332133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_63
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6079242e4196c4ca66df72dec7b407
+      internalID: -782193382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_64
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b483bf68adedb49b075e23c82f9035
+      internalID: -1592802405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_65
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fd7edcd9276747b9476fb5c60503c
+      internalID: -1706639284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_66
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68aefbfee73fe84bb96a316c2b1325f
+      internalID: 642383339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_67
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652d326d04c6984fa5c5e84dd97887b
+      internalID: 834099903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_68
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82cb7116812a54494a37cff88d37d4
+      internalID: 1551818786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_69
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1032
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaf9e5b0222e38489f13774a715e745
+      internalID: 1760293292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f569b90f4571f47834ecdbe4eceabf
+      internalID: 1762613932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc701058eb79bd7409940d0b22293bf8
+      internalID: -1110008213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_72
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4719bd94e5eaead489efc97f4d396115
+      internalID: -824487626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_73
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78359a37958f8e4e83e9185d5a46553
+      internalID: 1286135621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_74
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e279084ce78a44b6bfd3b0113bc7b
+      internalID: -1964782914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_75
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5abca757949644b86f6fd77152fb6d
+      internalID: 781000008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_76
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a5f43c080e6524584550a8a4ffd644
+      internalID: 1754551856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_77
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570ee3dc1fa48c944bf0568f719dc51a
+      internalID: 1751496627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_78
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac5d089f379114995a6ff401685a3e
+      internalID: -1320035762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_79
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 860
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df196bea9c04441aae6f2f37eb2d16
+      internalID: 217237225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b532f8f072353d246a4475fe1ed9a6d3
+      internalID: -21354105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e81dee208ebc646baef002db3529bc
+      internalID: 188285664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_82
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4703c7eed0615444db26ad05576af3cd
+      internalID: 1824741821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_83
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973d597d2e80704b82fa302d7c9d30f
+      internalID: 606062512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_84
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a7d5fea6bd1e48808e9bea051eb65
+      internalID: 943418491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_85
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0105f4c38e1d6fc4395a4467411f3a2c
+      internalID: 164383579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_86
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e37659f5e3014e909adf356f499ec
+      internalID: 1772888333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_87
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49748bfe50e6e564b97266bfad7567b6
+      internalID: 1110235716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_88
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47fa35937de17c429421095846fd180
+      internalID: -1975060757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_89
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 688
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb570e765cc3064a9c7da71b50e438e
+      internalID: 304302439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54fdd4f82b1d74daebefefab13b9c7
+      internalID: 910191679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_91
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f027bdb5f0fe84fb1568316831808d
+      internalID: 512308113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_92
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938fd696b2c4b647be386cab96ed162
+      internalID: -852814657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_93
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97daea14c3269d04b901a2bd2f8af13a
+      internalID: -1089548364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_94
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b14403d73ea3740962efc1182511cc
+      internalID: -1661920476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_95
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3859b8277ca63e478a5a24f8f2c4aa3
+      internalID: -334327461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_96
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3405e86d47a81e4d9e5b5b9c3f2cac2
+      internalID: -339679444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_97
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc9f170870a9a94cac8c8ae486fe40c
+      internalID: -1925799308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_98
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79af1e9b2b80f594f8e47744370bf73c
+      internalID: 1775131697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_99
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 516
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0852b1bce9b9f4aba3327bb11ea580
+      internalID: 2001402468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9a0362286d50b41ab1bb9485f1af4b
+      internalID: 459787341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_101
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0800cd17dd5714499b5d4e3178b8bd0
+      internalID: 751671432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_102
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e49780f41162844a8307c7b28ef8df
+      internalID: 948815618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_103
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7854869f3dc2c4c92ee2f8384989e2
+      internalID: 1711347037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_104
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1d46565ac671439b0a0e0fdc4387c
+      internalID: -1169479038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_105
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c1abba1274fd41868964ec731ff9d
+      internalID: -1862447600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_106
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0041ed9ee943ea45bb25f90e843c3f0
+      internalID: -1231082371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_107
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64ee6e1972d2d4b9eecea3f0af7c31
+      internalID: -2085808339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_108
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1853cafb0124301478ae50cf09ab1bfb
+      internalID: 1637067510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_109
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 344
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f30194458e3bd4dad2d94051dc3aae
+      internalID: 2139772856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58df5509680970439ed2136b0672caa
+      internalID: 648165435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_111
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0e1aaec8fe73438cc69a8e3fc55d1
+      internalID: -1219599859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_112
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac619f069a3fd408758bb8a84d4d90
+      internalID: -2083741405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_113
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296f02946f133324891eab1df67a0648
+      internalID: -362450549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_114
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5062a9db5b6e4ea5e0fb6af3e272f
+      internalID: 619004449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_115
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362e53ee0effa941beb52f933827334
+      internalID: -1852278000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_116
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44298bc860164ad479ada6bca3d789c8
+      internalID: -52622077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_117
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a3b1ce36c68c49b7e9928b4a59048
+      internalID: 1313528840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_118
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2889e338bbfc4d9ef7a12e930bdb4
+      internalID: -1119233672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_119
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 172
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfd7cd0c6f4eb2428075650ada7d42a
+      internalID: 999400903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f55839af2a12e4b8a3c842b1a3313f
+      internalID: -532863145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_121
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b92096b03a7e64b89050367a6c2bc2
+      internalID: 896404132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_122
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549918a1f640e6941aeaee6c9fedf31a
+      internalID: 1949952946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_123
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbab679650744a4fbdc68ca46ce8c85
+      internalID: -1379025324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_124
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ab40deb8f8fd4d89209a3bf6be51c
+      internalID: -258499902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_125
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d68d085f7da91449a16224d3a92c0b1
+      internalID: 1589738493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_126
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf405b9c3f398c4085a6492c02867cb
+      internalID: 1449639013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SM_Env_Tree_Large_03_green_127
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 230
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a937588a8f3d44e8661a67fbbd7c23
+      internalID: 321625627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SM_Env_Tree_Large_03_green_0: 851814804
+      SM_Env_Tree_Large_03_green_1: -1644075076
+      SM_Env_Tree_Large_03_green_10: 1417908009
+      SM_Env_Tree_Large_03_green_100: 459787341
+      SM_Env_Tree_Large_03_green_101: 751671432
+      SM_Env_Tree_Large_03_green_102: 948815618
+      SM_Env_Tree_Large_03_green_103: 1711347037
+      SM_Env_Tree_Large_03_green_104: -1169479038
+      SM_Env_Tree_Large_03_green_105: -1862447600
+      SM_Env_Tree_Large_03_green_106: -1231082371
+      SM_Env_Tree_Large_03_green_107: -2085808339
+      SM_Env_Tree_Large_03_green_108: 1637067510
+      SM_Env_Tree_Large_03_green_109: 2139772856
+      SM_Env_Tree_Large_03_green_11: -153917712
+      SM_Env_Tree_Large_03_green_110: 648165435
+      SM_Env_Tree_Large_03_green_111: -1219599859
+      SM_Env_Tree_Large_03_green_112: -2083741405
+      SM_Env_Tree_Large_03_green_113: -362450549
+      SM_Env_Tree_Large_03_green_114: 619004449
+      SM_Env_Tree_Large_03_green_115: -1852278000
+      SM_Env_Tree_Large_03_green_116: -52622077
+      SM_Env_Tree_Large_03_green_117: 1313528840
+      SM_Env_Tree_Large_03_green_118: -1119233672
+      SM_Env_Tree_Large_03_green_119: 999400903
+      SM_Env_Tree_Large_03_green_12: -1429382072
+      SM_Env_Tree_Large_03_green_120: -532863145
+      SM_Env_Tree_Large_03_green_121: 896404132
+      SM_Env_Tree_Large_03_green_122: 1949952946
+      SM_Env_Tree_Large_03_green_123: -1379025324
+      SM_Env_Tree_Large_03_green_124: -258499902
+      SM_Env_Tree_Large_03_green_125: 1589738493
+      SM_Env_Tree_Large_03_green_126: 1449639013
+      SM_Env_Tree_Large_03_green_127: 321625627
+      SM_Env_Tree_Large_03_green_13: -708760333
+      SM_Env_Tree_Large_03_green_14: -965752261
+      SM_Env_Tree_Large_03_green_15: -418260700
+      SM_Env_Tree_Large_03_green_16: -1837478515
+      SM_Env_Tree_Large_03_green_17: 330194948
+      SM_Env_Tree_Large_03_green_18: -1292685584
+      SM_Env_Tree_Large_03_green_19: 664450095
+      SM_Env_Tree_Large_03_green_2: 1659558922
+      SM_Env_Tree_Large_03_green_20: 384012661
+      SM_Env_Tree_Large_03_green_21: -497555843
+      SM_Env_Tree_Large_03_green_22: 971221293
+      SM_Env_Tree_Large_03_green_23: 315856502
+      SM_Env_Tree_Large_03_green_24: -46886765
+      SM_Env_Tree_Large_03_green_25: -72066266
+      SM_Env_Tree_Large_03_green_26: 1587894619
+      SM_Env_Tree_Large_03_green_27: 2141944949
+      SM_Env_Tree_Large_03_green_28: -1985291457
+      SM_Env_Tree_Large_03_green_29: 1328892899
+      SM_Env_Tree_Large_03_green_3: -877732937
+      SM_Env_Tree_Large_03_green_30: -1738037569
+      SM_Env_Tree_Large_03_green_31: -1196685378
+      SM_Env_Tree_Large_03_green_32: -1804651905
+      SM_Env_Tree_Large_03_green_33: 1428590998
+      SM_Env_Tree_Large_03_green_34: 801948499
+      SM_Env_Tree_Large_03_green_35: -1753470876
+      SM_Env_Tree_Large_03_green_36: 1507537296
+      SM_Env_Tree_Large_03_green_37: -2001246885
+      SM_Env_Tree_Large_03_green_38: 397739985
+      SM_Env_Tree_Large_03_green_39: -1387745294
+      SM_Env_Tree_Large_03_green_4: -772483375
+      SM_Env_Tree_Large_03_green_40: -1593278872
+      SM_Env_Tree_Large_03_green_41: -565554601
+      SM_Env_Tree_Large_03_green_42: 281952810
+      SM_Env_Tree_Large_03_green_43: 1957133920
+      SM_Env_Tree_Large_03_green_44: -1136785503
+      SM_Env_Tree_Large_03_green_45: -168601132
+      SM_Env_Tree_Large_03_green_46: 1199228194
+      SM_Env_Tree_Large_03_green_47: 544760955
+      SM_Env_Tree_Large_03_green_48: -756223162
+      SM_Env_Tree_Large_03_green_49: -1682398674
+      SM_Env_Tree_Large_03_green_5: 338615059
+      SM_Env_Tree_Large_03_green_50: -1024151872
+      SM_Env_Tree_Large_03_green_51: 1094471516
+      SM_Env_Tree_Large_03_green_52: 1854078156
+      SM_Env_Tree_Large_03_green_53: 370670190
+      SM_Env_Tree_Large_03_green_54: -1876293259
+      SM_Env_Tree_Large_03_green_55: 616038389
+      SM_Env_Tree_Large_03_green_56: -927459403
+      SM_Env_Tree_Large_03_green_57: 1023135102
+      SM_Env_Tree_Large_03_green_58: 35031732
+      SM_Env_Tree_Large_03_green_59: 1283988319
+      SM_Env_Tree_Large_03_green_6: -732503568
+      SM_Env_Tree_Large_03_green_60: 1231505822
+      SM_Env_Tree_Large_03_green_61: 1556790942
+      SM_Env_Tree_Large_03_green_62: 214332133
+      SM_Env_Tree_Large_03_green_63: -782193382
+      SM_Env_Tree_Large_03_green_64: -1592802405
+      SM_Env_Tree_Large_03_green_65: -1706639284
+      SM_Env_Tree_Large_03_green_66: 642383339
+      SM_Env_Tree_Large_03_green_67: 834099903
+      SM_Env_Tree_Large_03_green_68: 1551818786
+      SM_Env_Tree_Large_03_green_69: 1760293292
+      SM_Env_Tree_Large_03_green_7: -981336589
+      SM_Env_Tree_Large_03_green_70: 1762613932
+      SM_Env_Tree_Large_03_green_71: -1110008213
+      SM_Env_Tree_Large_03_green_72: -824487626
+      SM_Env_Tree_Large_03_green_73: 1286135621
+      SM_Env_Tree_Large_03_green_74: -1964782914
+      SM_Env_Tree_Large_03_green_75: 781000008
+      SM_Env_Tree_Large_03_green_76: 1754551856
+      SM_Env_Tree_Large_03_green_77: 1751496627
+      SM_Env_Tree_Large_03_green_78: -1320035762
+      SM_Env_Tree_Large_03_green_79: 217237225
+      SM_Env_Tree_Large_03_green_8: -2044137432
+      SM_Env_Tree_Large_03_green_80: -21354105
+      SM_Env_Tree_Large_03_green_81: 188285664
+      SM_Env_Tree_Large_03_green_82: 1824741821
+      SM_Env_Tree_Large_03_green_83: 606062512
+      SM_Env_Tree_Large_03_green_84: 943418491
+      SM_Env_Tree_Large_03_green_85: 164383579
+      SM_Env_Tree_Large_03_green_86: 1772888333
+      SM_Env_Tree_Large_03_green_87: 1110235716
+      SM_Env_Tree_Large_03_green_88: -1975060757
+      SM_Env_Tree_Large_03_green_89: 304302439
+      SM_Env_Tree_Large_03_green_9: -1193047853
+      SM_Env_Tree_Large_03_green_90: 910191679
+      SM_Env_Tree_Large_03_green_91: 512308113
+      SM_Env_Tree_Large_03_green_92: -852814657
+      SM_Env_Tree_Large_03_green_93: -1089548364
+      SM_Env_Tree_Large_03_green_94: -1661920476
+      SM_Env_Tree_Large_03_green_95: -334327461
+      SM_Env_Tree_Large_03_green_96: -339679444
+      SM_Env_Tree_Large_03_green_97: -1925799308
+      SM_Env_Tree_Large_03_green_98: 1775131697
+      SM_Env_Tree_Large_03_green_99: 2001402468
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

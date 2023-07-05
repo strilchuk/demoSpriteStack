@@ -1,0 +1,1631 @@
+fileFormatVersion: 2
+guid: 31a8ed2bb375b444f86624d64d1fde77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a308f6ec06c3b4aa3a6dd538a00ec3
+      internalID: -21539307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9a36f59741ba44891d10f869e7afd
+      internalID: 369558750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5f496c8777b14a8afda4116157e39
+      internalID: 1030854729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a9eb908743584f93fab263ec90550
+      internalID: -1562527354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b47097a69b1e604fa001c1dced477f4
+      internalID: 473742934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624308a71cf70e64088192d07df0d032
+      internalID: 331165008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892264e87d238941b8510737568a35b
+      internalID: 1284457880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5803d5668d23342a3aad3d2a76c8cf
+      internalID: -2031978128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319fa1cd3b4ac5e47bede73af832d629
+      internalID: -1921962648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1476
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1db1e4e0b40b44a8bc085c660ac2a
+      internalID: 1139598470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580da20a9cf496b48b0a2b76d88aa60e
+      internalID: 687183773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924bc3bea47e36441b4645fbeda45547
+      internalID: -832559580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59491bf036786d46b13c131874d47a3
+      internalID: 1710664863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475edcf3a13beab4d8c3e1038b621ca2
+      internalID: -960849065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a888242fcbb1a499898be2280c134b
+      internalID: 1614528986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89cfc52d12fe042b05fa8bc7a44457
+      internalID: 545661644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a526004e63ca04491998d1a0afd9c0
+      internalID: -615813098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843a0be27b2e574e954f2f2c9c9a503
+      internalID: 35025159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e603f9a0cc475b4aa65b31d5829ae5d
+      internalID: -936020641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1230
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e309212f435edb64f98bc67a73a62757
+      internalID: -1646030010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8da3534dd3804f8444476491c5155
+      internalID: -1485835271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249e9e25e93348f4d894fb2ee3a25e49
+      internalID: 265464731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c6d686be081b4ebfdddb3f82c3b1e
+      internalID: -8761775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950292e49ec570946acb2ea293cda56e
+      internalID: 2051353259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10da091866c8674080dcd51a97a91ef
+      internalID: 1757293097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa40f7631519fed4699b050bd84ff4f5
+      internalID: -512696512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44250fee49c8b074496a854db1b4e23a
+      internalID: -841029249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63950d69c3d897e478d87dc808ad9c05
+      internalID: 358780281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332f7c96234beb418063310f82832b0
+      internalID: 315029409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 984
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cfbefc187b4f74abc1d20688a1e559
+      internalID: -1301944189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1db9c1340c07246859d074a9af9f9c
+      internalID: 2128625957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6ecc6ed2daeb54d98e850da7efd8ee
+      internalID: 1018248085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba47be24e742b40971ba21edefaa40
+      internalID: 2138089033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a51bb69e02bc0c489122a4ee0dbbe72
+      internalID: 544458616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255c47c9a54897419f275e049289e48
+      internalID: 678978456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e5058d3a5fec4091216975400911a
+      internalID: -1885455642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b853d6cf0492041b567d6194473369
+      internalID: -314183867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657107d1e82b8ac4383c8f9dc25002f8
+      internalID: 744895835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45964c48515ca0449e416158089db0d
+      internalID: 446322695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 738
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833bffa8674f4b4cb2401b90e8f81af
+      internalID: 1459623326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b1048e6b11524f956afe91d54a631
+      internalID: 1002581052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173bd625f30592148927ac4315afe89c
+      internalID: -1741849909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26d8e524fd433444b01473a7e317142
+      internalID: 390168785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6868444d1fb40e49aa6597efd4a872f
+      internalID: 1721052971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85006d47fc3fa9e4996d840294aa8465
+      internalID: -1617251997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc99fdb5cde8b046be1a8bf403750f0
+      internalID: -1586843977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741998d7940f9a48abacfdbf4e7d2dc
+      internalID: -323990161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ade95f774d93f4c9ae65395aeccf4d
+      internalID: -955779184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e2082181476745b5cf213ee37a37e
+      internalID: 1406414898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 492
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908c58554dc2ce45ba97f368c4f1aaa
+      internalID: -219999006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286a33bf6d910c43b21621b71f09e97
+      internalID: -1353152641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2db95b7c0dc3f49b297514087325cb
+      internalID: 1623592353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3a968e7aa2c34c868ad64a233ff07
+      internalID: 995525818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe34bbaea2765f46b328383b0ec9f04
+      internalID: -1682508915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d529be0a174f0f34c9ada556bdf77fec
+      internalID: -1104692097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f828147edc9e739449ab8dc95c7117a4
+      internalID: -1567361409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fe06c5cfd90644b95b867a86eae8f
+      internalID: -1809937937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083cbd4d09db2294cb8662cc3378ec74
+      internalID: 1687625807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10ce85af30479841bd669947ed5a629
+      internalID: 1466407587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 246
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a38b55438b1524980b782a432194f6
+      internalID: 1337302680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd09ab79977b3147be13ccebab3d268
+      internalID: -280622380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dcd92b265155b4cadb5adaee5eb47d
+      internalID: -1664545543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a78c1091bb5d5f459beedb93b453104
+      internalID: -1713282021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a215027640963347b6f40e517bf2122
+      internalID: -666052249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff4504cdc648748b037c3b1ca5e7bb
+      internalID: 896107331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9523573fa496c4b974f81b77cb51ce
+      internalID: 1136436849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90865127c823fc74ba9a3d239f6b0e83
+      internalID: -1052235224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger-slices-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 0
+        width: 332
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933b0952b4bea74dac611b582caa278
+      internalID: 1558853169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tiger-slices-Sheet_0: -21539307
+      tiger-slices-Sheet_1: 369558750
+      tiger-slices-Sheet_10: 687183773
+      tiger-slices-Sheet_11: -832559580
+      tiger-slices-Sheet_12: 1710664863
+      tiger-slices-Sheet_13: -960849065
+      tiger-slices-Sheet_14: 1614528986
+      tiger-slices-Sheet_15: 545661644
+      tiger-slices-Sheet_16: -615813098
+      tiger-slices-Sheet_17: 35025159
+      tiger-slices-Sheet_18: -936020641
+      tiger-slices-Sheet_19: -1646030010
+      tiger-slices-Sheet_2: 1030854729
+      tiger-slices-Sheet_20: -1485835271
+      tiger-slices-Sheet_21: 265464731
+      tiger-slices-Sheet_22: -8761775
+      tiger-slices-Sheet_23: 2051353259
+      tiger-slices-Sheet_24: 1757293097
+      tiger-slices-Sheet_25: -512696512
+      tiger-slices-Sheet_26: -841029249
+      tiger-slices-Sheet_27: 358780281
+      tiger-slices-Sheet_28: 315029409
+      tiger-slices-Sheet_29: -1301944189
+      tiger-slices-Sheet_3: -1562527354
+      tiger-slices-Sheet_30: 2128625957
+      tiger-slices-Sheet_31: 1018248085
+      tiger-slices-Sheet_32: 2138089033
+      tiger-slices-Sheet_33: 544458616
+      tiger-slices-Sheet_34: 678978456
+      tiger-slices-Sheet_35: -1885455642
+      tiger-slices-Sheet_36: -314183867
+      tiger-slices-Sheet_37: 744895835
+      tiger-slices-Sheet_38: 446322695
+      tiger-slices-Sheet_39: 1459623326
+      tiger-slices-Sheet_4: 473742934
+      tiger-slices-Sheet_40: 1002581052
+      tiger-slices-Sheet_41: -1741849909
+      tiger-slices-Sheet_42: 390168785
+      tiger-slices-Sheet_43: 1721052971
+      tiger-slices-Sheet_44: -1617251997
+      tiger-slices-Sheet_45: -1586843977
+      tiger-slices-Sheet_46: -323990161
+      tiger-slices-Sheet_47: -955779184
+      tiger-slices-Sheet_48: 1406414898
+      tiger-slices-Sheet_49: -219999006
+      tiger-slices-Sheet_5: 331165008
+      tiger-slices-Sheet_50: -1353152641
+      tiger-slices-Sheet_51: 1623592353
+      tiger-slices-Sheet_52: 995525818
+      tiger-slices-Sheet_53: -1682508915
+      tiger-slices-Sheet_54: -1104692097
+      tiger-slices-Sheet_55: -1567361409
+      tiger-slices-Sheet_56: -1809937937
+      tiger-slices-Sheet_57: 1687625807
+      tiger-slices-Sheet_58: 1466407587
+      tiger-slices-Sheet_59: 1337302680
+      tiger-slices-Sheet_6: 1284457880
+      tiger-slices-Sheet_60: -280622380
+      tiger-slices-Sheet_61: -1664545543
+      tiger-slices-Sheet_62: -1713282021
+      tiger-slices-Sheet_63: -666052249
+      tiger-slices-Sheet_64: 896107331
+      tiger-slices-Sheet_65: 1136436849
+      tiger-slices-Sheet_66: -1052235224
+      tiger-slices-Sheet_67: 1558853169
+      tiger-slices-Sheet_7: -2031978128
+      tiger-slices-Sheet_8: -1921962648
+      tiger-slices-Sheet_9: 1139598470
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
